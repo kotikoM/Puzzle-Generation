@@ -6,7 +6,7 @@ puzzle design, leveraging mathematical curves to create visually appealing and c
 ## 📂 Project Structure
 
 - **Source Code**: Available in the [`src`](src) directory.
-- **Documentation**: For a detailed explanation refer to [`Puzzle Generation.html`](docs/Puzzle%20Generation.html).
+- **Documentation**: For a detailed explanation refer to [`github.io page`](https://kotikom.github.io/Puzzle-Generation/).
 - **Results**: Example generated puzzles can be found in the [`results`](results) directory.
 
 ## 🖼️ Sample Generated Puzzles
